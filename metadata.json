@@ -1,0 +1,6 @@
+{
+  "name": "Shopee Video Downloader Pro - Multi-Region (ID, MY, SG, TH, PH)",
+  "description": "Download Shopee Video tanpa watermark kualitas Full HD untuk Indonesia, Malaysia, Singapura, Thailand, dan Filipina dengan fitur batch & preview player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
